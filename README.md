@@ -44,6 +44,10 @@ Projeto embarcado desenvolvido na placa **BitDogLab (RP2040)** com o sistema ope
 
 ---
 
+## 🔗 Links externos
+
+Repositório do FreeRTOS, caso a desse repositório não funcionar (baixe, renomeie pra RTOS, e cole na pasta do projeto): https://github.com/FreeRTOS/FreeRTOS-Kernel
+
 ## 🧪 Reflexões
 
 **O que acontece se todas as tarefas tiverem a mesma prioridade?**  
